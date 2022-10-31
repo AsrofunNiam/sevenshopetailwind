@@ -1,1 +1,2 @@
 # sevenshopetailwind
+Adalah aplikasi pembelanjaan
